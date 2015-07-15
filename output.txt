@@ -1,0 +1,11 @@
+Sample outputs using examples provided:
+
+[ 206, 140, 300, 52, 107 ] should return 613 units, as mining the first, third, and fifth squares is optimal [ 206, x, 300, x, 107 ]
+Optimum output = 613; Traverse Path = [0, 206]; [2, 300]; [4, 107];
+
+
+[ 147, 206, 52, 240, 300 ] should return 506 units, as mining the second and fifth squares is optimal [ x, 206, x, x, 300 ]
+
+Optimum output = 506; Traverse Path = [1, 206]; [4, 300];
+
+
